@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'Damon Jackson Headshot.jpg',
   paragraphOne: 'The technology field became my passion through my curiosity for learning about how things worked and trying to build them myself. Programming appealed to my passion by challenging me and teaching me how to analyze and solve complex problems. ',
-  paragraphTwo: 'My experience leading an engineering team, developing personal projects, and expanding my coding knowledge has helped me to become a better leader, problem-solver, and programmer.',
+  paragraphTwo: 'My experience leading an engineering team, developing personal projects, and expanding my coding knowledge has helped me become a leader, problem-solver, and programmer.',
   paragraphThree: '  ',
   resume: 'https://github.com/damonhjackson/Resume/raw/main/Damon_Jackson_Resume.PDF', // if no resume, the button will not show up
 };
